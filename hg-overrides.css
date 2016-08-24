@@ -814,6 +814,10 @@ h3.normal-title {
   line-height: 1;
   margin: 30px 0 20px;
 }
+h4.normal-title {
+  font-family: 'Archivo Narrow', sans-serif;
+  margin-top: 20px;
+}
 .bottom-checkout {
   margin-top: 40px;
 }
